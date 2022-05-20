@@ -3,3 +3,7 @@ void func(void){
 
 
 }
+void funcc(void){
+	int c=55;
+	int e=8;
+}
