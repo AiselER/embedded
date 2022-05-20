@@ -6,6 +6,12 @@ void func(void){
 
 
 }
+
 void ff(void){
 	int s =2;
+}
+void funcc(void){
+	int c=55;
+	int e=8;
+
 }
