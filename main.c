@@ -6,3 +6,6 @@ void func(void){
 
 
 }
+void ff(void){
+	int s =2;
+}
