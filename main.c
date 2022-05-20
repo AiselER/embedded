@@ -1,3 +1,8 @@
-void function(void){
-	int y = 50;
+
+
+void func(void){
+	int y =10;
+
+
+
 }
